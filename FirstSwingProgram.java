@@ -1,6 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+
 public class FirstSwingProgram {
     public static void main(String[] args) {
         JFrame f=new JFrame();
